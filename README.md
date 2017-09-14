@@ -1,4 +1,7 @@
-# NodeBCN - NodeJS Barcelona User Group [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/nodebcn)
+# NodeBCN
+_NodeJS Barcelona User Group_ [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/nodebcn)
+
+A free, open and transparent community in Barcelona, focused on NodeJS and related technologies. We meet regularly to share our knowledge and learn from each other, either in talks or discussions, or simply having a coffee or drinks. You can [join our events](https://github.com/BarcelonaJS/node/labels/events) or search previous [events](https://github.com/BarcelonaJS/node/issues?q=label%3Aevents+is%3Aclosed) and [talks](https://github.com/BarcelonaJS/node/issues?utf8=✓&q=label%3Atalks%20is%3Aclosed%20).
 
 ## Call for Speakers
 
