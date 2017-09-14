@@ -1,33 +1,35 @@
-# NodeBCN - NodeJS Barcelona User Group
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/barcelona-js/node?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# NodeBCN - NodeJS Barcelona User Group [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/nodebcn)
 
-## Talk Format
+## Call for Speakers
+
+### Talk Format
 
 - Each event has 2-3 speaker slots available.  
 - Each talk is allocated 30 minutes, including Q&A
 
-## Submit a talk
+### Submit a talk
 
-1. [Create a new issue](https://github.com/barcelona-js/node/issues/new?title=Your%20Awesome%20Talk&body=---%0Alevel:%20beginner%20|%20advanced%20|%20expert%0Alanguage:%20en%20|%20es%0Atwitter:%20YourTwitterHandle%0Amonth:%20February%0A%0A---%0A%0AYour%20awesome%20talk%20description.)
+1. [Create a new issue](https://github.com/BarcelonaJS/node/issues/new)
 2. Modify the issue to match your talk
   - the title of your talk as Subject of the issue
-  - the level of your talk
   - the langauge (en or es)
   - your Twitter handle, starting with @
-  - the month you want to give this talk
   - talk description
 3. Submit
+
+Please indicate when you're available to give this talk.
 
 If you have any questions regarding an event or your talk, please add a comment to your issue and we'll be in touch.
 
 ### What now?
 
-After you submit the issue, we'll assign it to the next event.
+After you submit the issue, we'll assign it to an upcoming event.
 If there are any questions regarding your talk, we'll open a comment.
 Feel free to comment / discuss open issues/talks.
 
 ### Confirmation
-- Once your issue is assigned a milestone, it has been approved and confirmed.  
+
+- Once your issue is assigned to an event (we use milestones for that), it has been approved and confirmed.  
 - Check the milestone date for confirmation of the event date.
 
 ### After the event
@@ -40,11 +42,19 @@ Please add a comment to your talk issue with the following information per line:
 
 We'll add the information then into the archives. Thanks!
 
-## NodeJS Team
-Node.js Barcelona is brought to you by [@PatrickHeneise](https://twitter.com/PatrickHeneise). If you have any questions, ideas or want to collaborate, write us at node at barcelonajs doh org. You can follow us on Twitter: [@NodeBCN](https://twitter.com/nodebcn).
+
+## NodeJS Barcelona Organisers Team
+
+- New Organiser
+- New Organiser
+- New Organiser
+
+Node.js Barcelona was initally founded by [@PatrickHeneise](https://twitter.com/PatrickHeneise). 
+
+If you have any questions, ideas or want to collaborate, please message us on Twitter or open an issue here. You can follow us on Twitter: [@NodeBCN](https://twitter.com/nodebcn).
 
 
-# Code of Conduct
+## Code of Conduct
 As for all BarcelonaJS events, find the long version here: [BarcelonaJS Code of Conduct](http://barcelonajs.org/code)
 
 In Short:
